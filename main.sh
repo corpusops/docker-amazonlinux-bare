@@ -281,9 +281,9 @@ NODE_TOP="$(echo $(find_top_node))"
 MAILU_VERSiON=1.7
 
 BATCHED_IMAGES="\
-library/amazonlinux/latest\
- library/amazonlinux/1\
- library/amazonlinux/2::18
+ library/amazonlinux/2\
+ library/amazonlinux/latest\
+ library/amazonlinux/1::18
 library/amazonlinux/with-sources\
  library/amazonlinux/1-with-sources\
  library/amazonlinux/2-with-sources::18\
